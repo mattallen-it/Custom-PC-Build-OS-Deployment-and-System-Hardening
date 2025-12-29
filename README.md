@@ -1,4 +1,7 @@
-# Gaming-PC-Build
+## Repository Structure
+
+```text
+gaming-pc-build-it-homelab/
 │
 ├── README.md
 ├── parts-list.md
@@ -21,4 +24,3 @@
     ├── cinebench-multicore.png
     ├── cinebench-singlecore.png
     └── samsung-990pro-benchmark.png
-
