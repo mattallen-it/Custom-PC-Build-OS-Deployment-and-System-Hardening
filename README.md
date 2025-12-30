@@ -57,11 +57,14 @@ gaming-pc-build-it-homelab/
 │   └── performance-testing.md
 │
 └── images/
-    ├── completed-build.jpg
+    ├── completed-build.png
     ├── hwinfo-idle-baseline.png
     ├── prime95-stress-test.png
     ├── cinebench-multicore.png
     ├── cinebench-singlecore.png
     └── samsung-990pro-benchmark.png
+
+![Final Build](images/completed-build.png)
+
 
 
