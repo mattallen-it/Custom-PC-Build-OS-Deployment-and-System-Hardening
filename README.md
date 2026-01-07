@@ -31,7 +31,6 @@ This project documents the complete lifecycle of a custom-built desktop system, 
 - BIOS configuration and firmware management
 - Operating system deployment and troubleshooting
 - Driver installation and update management
-- Local user vs administrator account configuration
 - Baseline workstation security configuration
 - Patch management and update validation
 - Performance testing and system validation
